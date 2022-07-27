@@ -19,4 +19,4 @@ function anima(){
 
 
 }
-setInterval(anima,1000*5)
+setInterval(anima,1000*4)
